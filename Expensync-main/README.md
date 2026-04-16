@@ -1,10 +1,13 @@
-# 📊 Expensy — Personal Finance Tracker
+# 📊 Expensync — Smart Personal Finance Tracker
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Built With](https://img.shields.io/badge/Built%20with-MERN%20Stack-blue)
+![Author](https://img.shields.io/badge/Created%20by-Pooja%20Sharma-ff69b4)
 
- #### Expensy is a full-stack personal finance tracker designed to help users manage their income, expenses, and budgets in a simple yet powerful way. The platform provides a real-time overview of financial health through dashboards, interactive charts, and category-wise transaction tracking. Users can easily add, edit, and delete transactions, set budget goals, and analyze spending patterns, all from a single intuitive interface.
+ #### Expensync is a modern, AI-powered personal finance tracker created by **Pooja Sharma** to help users take control of their finances. Built with a beautiful violet-pink tech theme, this full-stack application provides real-time financial health dashboards, interactive charts, smart budgeting tools, and category-wise transaction tracking. Manage income, expenses, and budgets all from one intuitive interface with a stunning dark/light mode design.
+
+> 🌟 **Featured in:** Owner Testimonials Section with special recognition as Creator & Owner
 ---
 
 ## 🚀 Features
@@ -43,8 +46,8 @@
 ### 📁 Clone Repository
 
 ```bash
-git clone https://github.com/your-username/expensy.git
-cd expensy
+git clone https://github.com/PoojaSharma1801/Expensync.git
+cd Expensync
 ```
 
 ---
@@ -87,7 +90,7 @@ Open in browser: [http://localhost:3000](http://localhost:3000)
 ## 📊 Live Demo
 
 Check out the live version:  
-👉 [https://expensy.com](https://expensyncj17.vercel.app/)
+👉 [https://expensync.vercel.app](https://expensync.vercel.app/)
 
 ---
 
@@ -140,11 +143,29 @@ Check out the live version:
 
 ---
 
-## 👨‍💻 Author
+## �‍💻 Author
 
-**Jitesh Bhakat**  
-GitHub: [@Jitesh8260](https://github.com/Jitesh8260)  
-LinkedIn: [Jitesh Kumar](https://www.linkedin.com/in/jitesh-kumar-2521b7249/)
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/PoojaSharma1801" width="100" height="100" style="border-radius: 50%;" alt="Pooja Sharma"/>
+  
+  ### **Pooja Sharma**
+  
+  💻 Full Stack Developer | 🎨 UI/UX Enthusiast | 📊 Finance Tech Creator
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-@PoojaSharma1801-black?logo=github)](https://github.com/PoojaSharma1801)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pooja%20Sharma-blue?logo=linkedin)](https://www.linkedin.com/in/pooja-sharma/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-green)](https://poojasharma.com)
+</div>
+
+---
+
+## 📞 Contact
+
+Have questions or suggestions? Feel free to reach out!
+
+- 📧 **Email:** pooja@expensy.com
+- 🔗 **GitHub:** [PoojaSharma1801](https://github.com/PoojaSharma1801)
+- 💼 **LinkedIn:** [Pooja Sharma](https://www.linkedin.com/in/pooja-sharma/)
 
 ---
 
