@@ -96,15 +96,21 @@ Check out the live version:
 
 ## 📸 Screenshots
 
-### 🖥️ Dashboard Preview
+> 🎨 **Coming Soon:** Add screenshots of your deployed app here!
 
-![Expensy Full Demo](./public/demo.png)
+### 🖥️ Dashboard Preview
+<!-- Replace with actual screenshot: ![Dashboard](./screenshots/dashboard.png) -->
+*Dashboard with violet-pink theme showcasing expense tracking*
 
 ### 🌞 Light Mode | 🌙 Dark Mode
+<!-- Replace with actual screenshots -->
+| Light Mode | Dark Mode |
+|------------|-----------|
+| *Landing page with violet gradient* | *Dark mode with slate background* |
 
-| Light Mode                            | Dark Mode                             |
-| ------------------------------------ | ------------------------------------- |
-| ![Light](./public/light.png)         | ![Dark](./public/dark.png)           |
+### 📱 Mobile Responsive
+<!-- Replace with actual screenshot: ![Mobile](./screenshots/mobile.png) -->
+*Fully responsive design for all devices*
 
 
 ---
