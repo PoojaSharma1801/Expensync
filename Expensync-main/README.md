@@ -1,11 +1,11 @@
-# 📊 Expensync — Smart Personal Finance Tracker
+# 📊 Expensy — Smart Personal Finance Tracker
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Built With](https://img.shields.io/badge/Built%20with-MERN%20Stack-blue)
 ![Author](https://img.shields.io/badge/Created%20by-Pooja%20Sharma-ff69b4)
 
- #### Expensync is a modern, AI-powered personal finance tracker created by **Pooja Sharma** to help users take control of their finances. Built with a beautiful violet-pink tech theme, this full-stack application provides real-time financial health dashboards, interactive charts, smart budgeting tools, and category-wise transaction tracking. Manage income, expenses, and budgets all from one intuitive interface with a stunning dark/light mode design.
+ #### Expensy is a modern, AI-powered personal finance tracker created by **Pooja Sharma** to help users take control of their finances. Built with a beautiful violet-pink tech theme, this full-stack application provides real-time financial health dashboards, interactive charts, smart budgeting tools, and category-wise transaction tracking. Manage income, expenses, and budgets all from one intuitive interface with a stunning dark/light mode design.
 
 > 🌟 **Featured in:** Owner Testimonials Section with special recognition as Creator & Owner
 ---
