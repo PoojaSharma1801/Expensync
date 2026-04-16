@@ -152,7 +152,6 @@ Check out the live version:
 ## �‍💻 Author
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/PoojaSharma1801" width="100" height="100" style="border-radius: 50%;" alt="Pooja Sharma"/>
   
   ### **Pooja Sharma**
   
@@ -169,9 +168,8 @@ Check out the live version:
 
 Have questions or suggestions? Feel free to reach out!
 
-- 📧 **Email:** pooja@expensy.com
+- 📧 **Email:** pp4776501@gmail.com
 - 🔗 **GitHub:** [PoojaSharma1801](https://github.com/PoojaSharma1801)
-- 💼 **LinkedIn:** [Pooja Sharma](https://www.linkedin.com/in/pooja-sharma/)
 
 ---
 
