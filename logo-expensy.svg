@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="40" height="40">
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="45" fill="url(#gradient)"/>
+  
+  <!-- Gradient Definition -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#001f3f"/>
+      <stop offset="50%" style="stop-color:#00B8F4"/>
+      <stop offset="100%" style="stop-color:#00f6ff"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Dollar Sign -->
+  <text x="50" y="65" font-family="Arial, sans-serif" font-size="45" font-weight="bold" fill="white" text-anchor="middle">$</text>
+  
+  <!-- Sync Arrows -->
+  <path d="M 70 35 Q 80 25 70 15" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M 30 65 Q 20 75 30 85" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <polygon points="68,12 75,18 65,20" fill="white"/>
+  <polygon points="32,88 25,82 35,80" fill="white"/>
+</svg>
