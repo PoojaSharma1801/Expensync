@@ -35,7 +35,12 @@ app.use("/api/v1/summary", require("./routes/summary"));
 app.use("/api/v1/reminders", require("./routes/reminders"));
 
 
-// Start Server
-app.listen(PORT, () => {
-  console.log(`🚀 Server running on http://localhost:${PORT}`);
-});
+// Start Server (Local Development)
+if (process.env.NODE_ENV !== 'production') {
+  app.listen(PORT, () => {
+    console.log(`🚀 Server running on http://localhost:${PORT}`);
+  });
+}
+
+// Export for Vercel Serverless
+module.exports = app;

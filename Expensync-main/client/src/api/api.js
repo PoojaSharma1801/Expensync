@@ -6,7 +6,8 @@ import {
 } from "../utils/toast";
 import { loaderControl } from "../utils/loaderControl"; // 👈 loader utility
 
-const BASE_URL = "https://expensync-ex0w.onrender.com/api/v1";
+// Use environment variable for API URL, fallback to relative path for same-domain deployment
+const BASE_URL = import.meta.env.VITE_API_URL || "/api/v1";
 
 // Axios instance
 const API = axios.create({
